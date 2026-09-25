@@ -9,6 +9,7 @@ Here's some sample text. Lorem ipsum dolor sit amet. Not sure what else I should
 
 Above is an image of one of my friends that I asked what image I should put here. What a thought provoking image.
 > guys i have an image i need to add to an assignment for school
+
 This is a quote me asking my friends what image I should put there.
 
 ```sudo rm -rf /*```
