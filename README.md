@@ -5,7 +5,7 @@ Here's some sample text. Lorem ipsum dolor sit amet. Not sure what else I should
 - Beautiful looking circles, huh?
 - Very nice.
 
-![Sample image](https://github.com/azathth/assignment3/assets/images/sampleimage.png)
+![Sample image](https://github.com/azathth/assignment3/blob/main/sampleimage.png)
 Above is an image of one of my friends that I asked what image I should put here. What a thought provoking image.
 > guys i have an image i need to add to an assignment for school
 This is a quote me asking my friends what image I should put there.
